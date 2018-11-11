@@ -1,0 +1,42 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+.navbar{
+	background: #3d3d3d!important;
+	color: #fff!important;
+}
+.navbar-nav a{
+	color: #fff!important;
+}
+.navbar-brand{
+	color: #fff!important;
+}
+.jumbotron{
+	background-image: url("../img/madagascar-2151860_1920.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%!important;
+	color: #fff!important;
+}
+.titre{
+	color: #5dcbe7!important;
+}
+img .card-img-top{
+	width: 60%!important;
+	/*height: auto;*/
+}
+/*.card{
+	padding: 5px!important;
+	margin: 5px!important;
+}*/
+.about{
+	background-color: #1ca7da;
+}
+.location{
+	background-color: #da831c;
+}
+#contact{
+	background-color: #f5f5f5;
+}
